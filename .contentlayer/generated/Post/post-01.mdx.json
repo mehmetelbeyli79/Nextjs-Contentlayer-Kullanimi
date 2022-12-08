@@ -5,12 +5,12 @@
     "raw": "```sh\r\ncd dillinger\r\nnpm i\r\nnode app\r\n```\r\n# Mehmet\r\n> The overriding design goal for Markdown's\r\n> formatting syntax is to make it as readable\r\n> as possible. The idea is that a\r\n> Markdown-formatted document should be\r\n> publishable as-is, as plain text, without\r\n> looking like it's been marked up with tags\r\n> or formatting instructions.\r\n\r\n- Drag and drop images (requires your Dropbox account be linked)\r\n- Import and save files from GitHub, Dropbox, Google Drive and One Drive\r\n- Drag and drop markdown and HTML files into Dillinger\r\n- Export documents as Markdown, HTML and PDF\r\nUllamco et nostrud magna commodo nostrud occaecat quis pariatur id ipsum. Ipsum\r\nconsequat enim id \r\nexcepteur consequat nostrud esse esse _fugiat_ dolore.\r\nReprehenderit occaecat exercitation non cupidatat in eiusmod laborum ex eu\r\nfugiat aute culpa pariatur. Irure elit proident consequat veniam minim ipsum ex\r\npariatur.\r\n## Elbeyli\r\n> Mollit nisi cillum exercitation minim officia velit laborum non Lorem\r\n> adipisicing dolore. **Labore** __commodo__ consectetur commodo velit adipisicing irure\r\n> dolore dolor **reprehenderit** aliquip. Reprehenderit cillum mollit eiusmod\r\n> excepteur elit ipsum aute pariatur in. Cupidatat ex culpa velit culpa ad non\r\nlabore exercitation irure laborum.\r\n### 79\r\nMehmet Elbeyli",
     "html": "<pre><code class=\"language-sh\">cd dillinger\r\nnpm i\r\nnode app\n</code></pre>\n<h1>Mehmet</h1>\n<blockquote>\n<p>The overriding design goal for Markdown's\r\nformatting syntax is to make it as readable\r\nas possible. The idea is that a\r\nMarkdown-formatted document should be\r\npublishable as-is, as plain text, without\r\nlooking like it's been marked up with tags\r\nor formatting instructions.</p>\n</blockquote>\n<ul>\n<li>Drag and drop images (requires your Dropbox account be linked)</li>\n<li>Import and save files from GitHub, Dropbox, Google Drive and One Drive</li>\n<li>Drag and drop markdown and HTML files into Dillinger</li>\n<li>Export documents as Markdown, HTML and PDF\r\nUllamco et nostrud magna commodo nostrud occaecat quis pariatur id ipsum. Ipsum\r\nconsequat enim id\r\nexcepteur consequat nostrud esse esse <em>fugiat</em> dolore.\r\nReprehenderit occaecat exercitation non cupidatat in eiusmod laborum ex eu\r\nfugiat aute culpa pariatur. Irure elit proident consequat veniam minim ipsum ex\r\npariatur.</li>\n</ul>\n<h2>Elbeyli</h2>\n<blockquote>\n<p>Mollit nisi cillum exercitation minim officia velit laborum non Lorem\r\nadipisicing dolore. <strong>Labore</strong> <strong>commodo</strong> consectetur commodo velit adipisicing irure\r\ndolore dolor <strong>reprehenderit</strong> aliquip. Reprehenderit cillum mollit eiusmod\r\nexcepteur elit ipsum aute pariatur in. Cupidatat ex culpa velit culpa ad non\r\nlabore exercitation irure laborum.</p>\n</blockquote>\n<h3>79</h3>\n<p>Mehmet Elbeyli</p>"
   },
-  "_id": "post-01.md",
+  "_id": "post-01.mdx",
   "_raw": {
-    "sourceFilePath": "post-01.md",
-    "sourceFileName": "post-01.md",
+    "sourceFilePath": "post-01.mdx",
+    "sourceFileName": "post-01.mdx",
     "sourceFileDir": ".",
-    "contentType": "markdown",
+    "contentType": "mdx",
     "flattenedPath": "post-01"
   },
   "type": "Post",
